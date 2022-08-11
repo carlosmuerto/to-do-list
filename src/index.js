@@ -56,3 +56,5 @@ document.getElementById('toDo').addEventListener('keypress', (e) => {
     document.getElementById('toDo').value = '';
   }
 });
+
+document.getElementById('hide-hellow').style.display = 'none';
